@@ -9,7 +9,7 @@ RUN ls -la
 
 RUN npm install
 
-RUN echo hi this is a test
+RUN echo hi this is a test 5
 
 EXPOSE 3000
 CMD [ "npm", "start" ]

@@ -3,7 +3,7 @@ metadata:
   name: nodejs
   version: 1.0.0
   attributes:
-    alpha.build-dockerfile: level1/Dockerfile
+    alpha.build-dockerfile: Dockerfile
     alpha.build-context: level1
 starterProjects:
   - name: nodejs-starter
